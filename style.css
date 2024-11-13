@@ -15,7 +15,7 @@
 
 .item {
   border-radius: 18px;
-  box-shadow: 5px 5px 30px #283b458f;
+  box-shadow:  1px 1px 2px;
   transition: 0.2s;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .item:hover {
-  box-shadow: 6px 6px 32px #01415f8f;
+  box-shadow: 8px 8px 12px #283b458f;
 }
 
 .item img {
